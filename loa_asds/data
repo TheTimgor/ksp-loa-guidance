@@ -1,0 +1,20 @@
+-517
+-323
+-356
+-356
+-353
+overshoot from 800 to 900
+-360
+-335
+overshoot to 1200
+remove target distance check
++393
+add back target distance check (1000)
+-131
+overshoot to 1100
+-196
+-139
+-157
+add rcs disable at 1000m/s
+-115
+rcs disable at 1700m/s

@@ -1,0 +1,2 @@
+# THIS CODEBASE IS IN THE MIDDLE OF A REWRITE
+I was in the middle of completely redoing all the descent guidance code before I had to stop because of school commitments. Much of it is commented out or missing entirely. When I return to this project, I will probably end up nuking it and starting from scratch.
